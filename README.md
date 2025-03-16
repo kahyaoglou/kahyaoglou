@@ -28,6 +28,3 @@ Docker, Redis, Git, Anaconda
   <img src="https://github-readme-stats.vercel.app/api?username=kahyaoglou&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahyaoglou&theme=radical&hide_border=false" height="180px" />
 </p>
-<p align="center">
-  
-</p>
