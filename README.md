@@ -31,7 +31,3 @@ Docker, Redis, Git, Anaconda
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahyaoglou&theme=radical&hide_border=false&layout=compact" height="180px" />
 </p>
----
-
-🔍 Always exploring new technologies & improving my craft!  
-Let's connect and create something amazing. 🚀  
