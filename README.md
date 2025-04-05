@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Furkan Eralp Kahyaoğlu!
 
-🚀 Backend Developer | Passionate about .NET & Software Architecture  
+🚀 Software Engineer | Passionate about .NET & Software Architecture  
 🎯 Focused on writing clean, efficient, and scalable code  
 
 ## 🌍 Connect with Me  
